@@ -28,7 +28,7 @@ L’outil doit fournir une évaluation précise des performances prévues et eff
 - Backtest des portefeuilles sur un historique de 30 ans (360 mois) :
   - Les rendements moyens et les covariances sont calculés sur une période de 72 mois (6 ans) avant chaque point d’investissement.
   - Les performances effectives sont calculées sur une période de 36 mois (3 ans) suivant chaque point d’investissement.
-- Maximisation de l’**équivalent certain** (\(E_r - \text{aversion}/2 \times \text{variance}\)).
+- Maximisation de l’**équivalent certain**.
 - Comparaison des performances prévues et effectives, et évaluation des écarts.
 - Benchmark : comparaison des portefeuilles optimisés avec un **portefeuille équipondéré** et les **indices de marché**.
 
